@@ -6,7 +6,7 @@ namespace ConstructorsBasicsCs
     {
         static void Main(string[] args)
         {
-            Customer customer = new Customer();
+            Customer customer = new Customer(1, "Masen");
             Console.WriteLine(customer.Id);
             Console.WriteLine(customer.Name);
 
