@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.exe
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.deps.json
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.runtimeconfig.json
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.dll
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\bin\Debug\netcoreapp3.1\ConstructorsBasicsCs.pdb
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.dll
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.pdb
+C:\Users\masen\source\repos\ConstructorsBasicsCs\ConstructorsBasicsCs\obj\Debug\netcoreapp3.1\ConstructorsBasicsCs.genruntimeconfig.cache
